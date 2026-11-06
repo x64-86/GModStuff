@@ -1,0 +1,255 @@
+{
+ "v": 2,
+ "headroom_db": 10,
+ "variants": [
+  "clean",
+  "boost",
+  "muffled",
+  "muffledboost"
+ ],
+ "songs": [
+  {
+   "i": 0,
+   "title": "Riders on the Storm (Fredwreck Remix)",
+   "artist": "Snoop Dogg feat. The Doors",
+   "album": "Need for Speed Underground 2 Exclusive",
+   "secs": 373.641,
+   "part": 39,
+   "list": "FE"
+  },
+  {
+   "i": 1,
+   "title": "I Need Speed",
+   "artist": "Capone",
+   "album": "Need for Speed Underground 2 Exclusive",
+   "secs": 207.482,
+   "part": 4,
+   "list": "FE"
+  },
+  {
+   "i": 2,
+   "title": "I Do",
+   "artist": "Chingy",
+   "album": "PowerBallin'",
+   "secs": 237.131,
+   "part": 35,
+   "list": "FE"
+  },
+  {
+   "i": 3,
+   "title": "That'z My Name",
+   "artist": "Sly Boogy",
+   "album": "Mistaken Identity",
+   "secs": 209.639,
+   "part": 8,
+   "list": "FE"
+  },
+  {
+   "i": 4,
+   "title": "LAX",
+   "artist": "Xzibit",
+   "album": "Weapons of Mass Destruction",
+   "secs": 198.185,
+   "part": 40,
+   "list": "FE"
+  },
+  {
+   "i": 5,
+   "title": "Lean Back",
+   "artist": "Terror Squad",
+   "album": "True Story",
+   "secs": 253.36,
+   "part": 23,
+   "list": "FE"
+  },
+  {
+   "i": 6,
+   "title": "Switch/Twitch",
+   "artist": "Fluke",
+   "album": "Puppy",
+   "secs": 253.653,
+   "part": 2,
+   "list": "IG"
+  },
+  {
+   "i": 7,
+   "title": "Rush Hour",
+   "artist": "Christopher Lawrence",
+   "album": "All or Nothing",
+   "secs": 244.444,
+   "part": 19,
+   "list": "IG"
+  },
+  {
+   "i": 8,
+   "title": "Rocket Ride (Soulwax Remix)",
+   "artist": "Felix Da Housecat",
+   "album": "Devin Dazzle & the Neon Fever",
+   "secs": 182.87,
+   "part": 20,
+   "list": "IG"
+  },
+  {
+   "i": 9,
+   "title": "Hard EBM",
+   "artist": "Sin",
+   "album": "Errare Digital EST",
+   "secs": 220.118,
+   "part": 38,
+   "list": "IG"
+  },
+  {
+   "i": 10,
+   "title": "Mind Killer (Jagz Kooner Remix)",
+   "artist": "FREELAND",
+   "album": "Now & Them",
+   "secs": 344.984,
+   "part": 33,
+   "list": "IG"
+  },
+  {
+   "i": 11,
+   "title": "Nothing But You (Cirrus Remix)",
+   "artist": "Paul Van Dyk",
+   "album": "Reflections",
+   "secs": 241.746,
+   "part": 34,
+   "list": "IG"
+  },
+  {
+   "i": 12,
+   "title": "E-Ville",
+   "artist": "Sonic Animation",
+   "album": "Reality By Deception",
+   "secs": 270.217,
+   "part": 30,
+   "list": "IG"
+  },
+  {
+   "i": 13,
+   "title": "The Death & Resurrection Show",
+   "artist": "Killing Joke",
+   "album": "Killing Joke",
+   "secs": 301.188,
+   "part": 9,
+   "list": "IG"
+  },
+  {
+   "i": 14,
+   "title": "Give it All",
+   "artist": "Rise Against",
+   "album": "Siren Song of the Counter Culture",
+   "secs": 168.771,
+   "part": 5,
+   "list": "IG"
+  },
+  {
+   "i": 15,
+   "title": "Scavenger",
+   "artist": "Killradio",
+   "album": "Raised on Whipped Cream",
+   "secs": 157.684,
+   "part": 6,
+   "list": "IG"
+  },
+  {
+   "i": 16,
+   "title": "Notice of Eviction",
+   "artist": "The Bronx",
+   "album": "The Bronx",
+   "secs": 135.965,
+   "part": 3,
+   "list": "IG"
+  },
+  {
+   "i": 17,
+   "title": "No W",
+   "artist": "Ministry",
+   "album": "Houses of the Molé",
+   "secs": 171.007,
+   "part": 31,
+   "list": "IG"
+  },
+  {
+   "i": 18,
+   "title": "In My Head",
+   "artist": "Queens of the Stone Age",
+   "album": "Lullabies to Paralyze",
+   "secs": 241.346,
+   "part": 37,
+   "list": "IG"
+  },
+  {
+   "i": 19,
+   "title": "Determined",
+   "artist": "Mudvayne",
+   "album": "",
+   "secs": 157.828,
+   "part": 36,
+   "list": "IG"
+  },
+  {
+   "i": 20,
+   "title": "I Am Weightless",
+   "artist": "Septembre",
+   "album": "Rule 3: Conceal Your Intentions",
+   "secs": 145.586,
+   "part": 7,
+   "list": "IG"
+  },
+  {
+   "i": 21,
+   "title": "Crashing Foreign Cars",
+   "artist": "Helmet",
+   "album": "Size Matters",
+   "secs": 150.788,
+   "part": 10,
+   "list": "IG"
+  },
+  {
+   "i": 22,
+   "title": "Back on a Mission",
+   "artist": "Cirrus",
+   "album": "Back on a Mission",
+   "secs": 214.743,
+   "part": 11,
+   "list": "IG"
+  },
+  {
+   "i": 23,
+   "title": "Black Betty",
+   "artist": "SpiderBait",
+   "album": "Tonight Alright",
+   "secs": 205.989,
+   "part": 18,
+   "list": "IG"
+  },
+  {
+   "i": 24,
+   "title": "Nobody",
+   "artist": "Skindred",
+   "album": "Babylon",
+   "secs": 196.093,
+   "part": 22,
+   "list": "IG"
+  },
+  {
+   "i": 25,
+   "title": "Skeptic",
+   "artist": "Snapcase",
+   "album": "Bright Flashes",
+   "secs": 142.976,
+   "part": 21,
+   "list": "IG"
+  },
+  {
+   "i": 26,
+   "title": "The Celebration Song",
+   "artist": "Unwritten Law",
+   "album": "The Way",
+   "secs": 222.318,
+   "part": 32,
+   "list": "IG"
+  }
+ ]
+}
