@@ -1,0 +1,90 @@
+{
+ "v": 1,
+ "scenes": {
+  "IntroNis01": {
+   "file": "IntroNis01.dat",
+   "bytes": 1341569,
+   "people": 19
+  },
+  "IntroNis02": {
+   "file": "IntroNis02.dat",
+   "bytes": 1686693,
+   "people": 17
+  },
+  "IntroNis03": {
+   "file": "IntroNis03.dat",
+   "bytes": 1813099,
+   "people": 12
+  },
+  "IntroNis05": {
+   "file": "IntroNis05.dat",
+   "bytes": 1710371,
+   "people": 12
+  },
+  "IntroNis06": {
+   "file": "IntroNis06.dat",
+   "bytes": 1776393,
+   "people": 16
+  },
+  "IntroNis07": {
+   "file": "IntroNis07.dat",
+   "bytes": 1474659,
+   "people": 14
+  },
+  "IntroNis08": {
+   "file": "IntroNis08.dat",
+   "bytes": 1051723,
+   "people": 2
+  },
+  "IntroNis10": {
+   "file": "IntroNis10.dat",
+   "bytes": 1861806,
+   "people": 14
+  },
+  "IntroNis12": {
+   "file": "IntroNis12.dat",
+   "bytes": 1606055,
+   "people": 21
+  },
+  "IntroNis13": {
+   "file": "IntroNis13.dat",
+   "bytes": 1051727,
+   "people": 2
+  },
+  "IntroNis15": {
+   "file": "IntroNis15.dat",
+   "bytes": 1861744,
+   "people": 14
+  },
+  "IntroNis19": {
+   "file": "IntroNis19.dat",
+   "bytes": 1430046,
+   "people": 10
+  },
+  "IntroNis22": {
+   "file": "IntroNis22.dat",
+   "bytes": 2028147,
+   "people": 16
+  },
+  "IntroNis24": {
+   "file": "IntroNis24.dat",
+   "bytes": 1551647,
+   "people": 15
+  },
+  "IntroNis25": {
+   "file": "IntroNis25.dat",
+   "bytes": 1779385,
+   "people": 16
+  },
+  "IntroNis26": {
+   "file": "IntroNis26.dat",
+   "bytes": 1772000,
+   "people": 14
+  },
+  "IntroNis27": {
+   "file": "IntroNis27.dat",
+   "bytes": 1051723,
+   "people": 2
+  }
+ }
+}
