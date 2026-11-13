@@ -1,0 +1,247 @@
+{
+ "v": 1,
+ "game": "ug1",
+ "headroom_db": 10,
+ "variants": [
+  "clean",
+  "boost",
+  "muffled",
+  "muffledboost"
+ ],
+ "songs": [
+  {
+   "i": 0,
+   "title": "Doomsday",
+   "artist": "Overseer",
+   "album": "Wreckage",
+   "list": "IG",
+   "part": 2,
+   "secs": 193.21
+  },
+  {
+   "i": 1,
+   "title": "Born Too Slow",
+   "artist": "The Crystal Method",
+   "album": "Legion of Boom",
+   "list": "IG",
+   "part": 3,
+   "secs": 165.203
+  },
+  {
+   "i": 2,
+   "title": "Out of Control",
+   "artist": "Rancid",
+   "album": "Indestructible",
+   "list": "IG",
+   "part": 4,
+   "secs": 99.889
+  },
+  {
+   "i": 3,
+   "title": "Two-Lane Blacktop",
+   "artist": "Rob Zombie",
+   "album": "Past, Present & Future",
+   "list": "IG",
+   "part": 5,
+   "secs": 174.281
+  },
+  {
+   "i": 4,
+   "title": "Kimosabe",
+   "artist": "BT",
+   "album": "",
+   "list": "IG",
+   "part": 6,
+   "secs": 295.727
+  },
+  {
+   "i": 5,
+   "title": "The Only",
+   "artist": "Static-X",
+   "album": "Shadow Zone",
+   "list": "IG",
+   "part": 7,
+   "secs": 171.114
+  },
+  {
+   "i": 6,
+   "title": "Broken Promises",
+   "artist": "Element Eighty",
+   "album": "Element Eighty",
+   "list": "IG",
+   "part": 8,
+   "secs": 196.562
+  },
+  {
+   "i": 7,
+   "title": "Fortress Europe",
+   "artist": "Asian Dub Foundation",
+   "album": "Enemy of the Enemy",
+   "list": "IG",
+   "part": 9,
+   "secs": 231.054
+  },
+  {
+   "i": 8,
+   "title": "Invisible",
+   "artist": "Hotwire",
+   "album": "The Routine",
+   "list": "IG",
+   "part": 10,
+   "secs": 172.466
+  },
+  {
+   "i": 9,
+   "title": "And the Hero Will Drown",
+   "artist": "Story of the Year",
+   "album": "Page Avenue",
+   "list": "IG",
+   "part": 11,
+   "secs": 192.745
+  },
+  {
+   "i": 10,
+   "title": "The Wonders of You",
+   "artist": "Andy Hunter",
+   "album": "Exodus",
+   "list": "IG",
+   "part": 12,
+   "secs": 429.126
+  },
+  {
+   "i": 11,
+   "title": "Action Radius",
+   "artist": "Junkie XL",
+   "album": "Big Sounds of the Drags",
+   "list": "IG",
+   "part": 13,
+   "secs": 234.823
+  },
+  {
+   "i": 12,
+   "title": "Quarter",
+   "artist": "Fuel",
+   "album": "Natural Selection",
+   "list": "IG",
+   "part": 14,
+   "secs": 219.392
+  },
+  {
+   "i": 13,
+   "title": "Sucked In",
+   "artist": "Jerk",
+   "album": "When Pure is Defiled",
+   "list": "IG",
+   "part": 15,
+   "secs": 172.873
+  },
+  {
+   "i": 14,
+   "title": "Snapshot",
+   "artist": "Fluke",
+   "album": "Puppy",
+   "list": "IG",
+   "part": 16,
+   "secs": 239.447
+  },
+  {
+   "i": 15,
+   "title": "Ride",
+   "artist": "lostprophets",
+   "album": "Start Something",
+   "list": "IG",
+   "part": 17,
+   "secs": 307.696
+  },
+  {
+   "i": 16,
+   "title": "Supermoves",
+   "artist": "Overseer",
+   "album": "Wreckage",
+   "list": "IG",
+   "part": 18,
+   "secs": 286.462
+  },
+  {
+   "i": 17,
+   "title": "Glitterball",
+   "artist": "FC Kahuna",
+   "album": "Machine Says Yes",
+   "list": "IG",
+   "part": 19,
+   "secs": 343.332
+  },
+  {
+   "i": 18,
+   "title": "Swallow",
+   "artist": "Blindside",
+   "album": "About a Burning Fire",
+   "list": "IG",
+   "part": 20,
+   "secs": 144.532
+  },
+  {
+   "i": 19,
+   "title": "Get Low",
+   "artist": "Lil Jon & the Eastside Boyz",
+   "album": "Kings of Crunk",
+   "list": "FE",
+   "part": 21,
+   "secs": 265.831
+  },
+  {
+   "i": 20,
+   "title": "Smashing the Gas (Get Faster)",
+   "artist": "Mystikal",
+   "album": "Need for Speed Exclusive",
+   "list": "FE",
+   "part": 22,
+   "secs": 189.545
+  },
+  {
+   "i": 21,
+   "title": "Who's Who",
+   "artist": "Dilated Peoples",
+   "album": "Neighborhood Watch",
+   "list": "FE",
+   "part": 23,
+   "secs": 235.078
+  },
+  {
+   "i": 22,
+   "title": "Keep It Coming",
+   "artist": "Nate Dogg",
+   "album": "Need for Speed Exclusive",
+   "list": "FE",
+   "part": 24,
+   "secs": 258.321
+  },
+  {
+   "i": 23,
+   "title": "Body Rock",
+   "artist": "X-ecutioners",
+   "album": "",
+   "list": "FE",
+   "part": 25,
+   "secs": 216.187
+  },
+  {
+   "i": 24,
+   "title": "Need For Speed",
+   "artist": "Petey Pablo",
+   "album": "Need for Speed Exclusive",
+   "list": "FE",
+   "part": 26,
+   "secs": 212.822
+  },
+  {
+   "i": 25,
+   "title": "24's",
+   "artist": "T.I.",
+   "album": "Trap Muzik",
+   "list": "FE",
+   "part": 27,
+   "secs": 246.876
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "v": 1,
+ "game": "mw",
+ "headroom_db": 10,
+ "variants": [
+  "clean",
+  "boost",
+  "muffled",
+  "muffledboost"
+ ],
+ "songs": [
+  {
+   "i": 0,
+   "title": "Feels Just Like It Should (Timo Maas Remix)",
+   "artist": "Jamiroquai",
+   "album": "Dynamite",
+   "list": "IG",
+   "part": 2977,
+   "segments": 46,
+   "secs": 187.713
+  },
+  {
+   "i": 1,
+   "title": "You'll Be Under My Wheels",
+   "artist": "The Prodigy",
+   "album": "Always Outnumbered, Never Outgunned",
+   "list": "IG",
+   "part": 1882,
+   "segments": 111,
+   "secs": 235.78
+  },
+  {
+   "i": 2,
+   "title": "Sets Go Up",
+   "artist": "Juvenile",
+   "album": "Reality Check",
+   "list": "FE",
+   "part": 2830,
+   "segments": 86,
+   "secs": 219.326
+  },
+  {
+   "i": 3,
+   "title": "Skinnyman",
+   "artist": "Static-X",
+   "album": "Start A War",
+   "list": "IG",
+   "part": 2515,
+   "segments": 39,
+   "secs": 206.503
+  },
+  {
+   "i": 4,
+   "title": "Let's Move",
+   "artist": "The Perceptionists",
+   "album": "Black Dialogue",
+   "list": "FE",
+   "part": 1561,
+   "segments": 38,
+   "secs": 176.077
+  },
+  {
+   "i": 5,
+   "title": "Shapeshifter",
+   "artist": "Celldweller feat. Styles Of Beyond",
+   "album": "",
+   "list": "AL",
+   "part": 2713,
+   "segments": 49,
+   "secs": 200.985
+  },
+  {
+   "i": 6,
+   "title": "Blinded In Chains",
+   "artist": "Avenged Sevenfold",
+   "album": "City Of Evil",
+   "list": "IG",
+   "part": 2237,
+   "segments": 132,
+   "secs": 376.224
+  },
+  {
+   "i": 7,
+   "title": "Tilted",
+   "artist": "Lupe Fiasco",
+   "album": "Food &...",
+   "list": "FE",
+   "part": 1797,
+   "segments": 79,
+   "secs": 209.727
+  },
+  {
+   "i": 8,
+   "title": "Fired Up",
+   "artist": "Hush",
+   "album": "Bulletproof",
+   "list": "FE",
+   "part": 1490,
+   "segments": 65,
+   "secs": 198.986
+  },
+  {
+   "i": 9,
+   "title": "Tao Of The Machine (Scott Humphrey's Remix)",
+   "artist": "The Roots and BT",
+   "album": "Blade II Soundtrack",
+   "list": "IG",
+   "part": 3036,
+   "segments": 55,
+   "secs": 188.249
+  },
+  {
+   "i": 10,
+   "title": "Decadence",
+   "artist": "Disturbed",
+   "album": "Ten Thousand Fists",
+   "list": "IG",
+   "part": 2376,
+   "segments": 71,
+   "secs": 208.812
+  },
+  {
+   "i": 11,
+   "title": "One Good Reason",
+   "artist": "Celldweller",
+   "album": "Celldweller",
+   "list": "IG",
+   "part": 1999,
+   "segments": 162,
+   "secs": 252.232
+  },
+  {
+   "i": 12,
+   "title": "You Must Follow (Evol Intent VIP)",
+   "artist": "Stratus",
+   "album": "Dungeonmaster's Guide",
+   "list": "IG",
+   "part": 3410,
+   "segments": 82,
+   "secs": 236.175
+  },
+  {
+   "i": 13,
+   "title": "The Mann",
+   "artist": "Paul Linford and Chris Vrenna",
+   "album": "",
+   "list": "IG",
+   "part": 3559,
+   "segments": 56,
+   "secs": 361.809
+  },
+  {
+   "i": 14,
+   "title": "Broken Sword",
+   "artist": "Evol Intent, Mayhem & Thinktank",
+   "album": "",
+   "list": "IG",
+   "part": 3273,
+   "segments": 127,
+   "secs": 363.834
+  },
+  {
+   "i": 15,
+   "title": "Hand Of Blood",
+   "artist": "Bullet For My Valentine",
+   "album": "Hand Of Blood",
+   "list": "IG",
+   "part": 1716,
+   "segments": 75,
+   "secs": 200.386
+  },
+  {
+   "i": 16,
+   "title": "I Am Rock",
+   "artist": "Rock",
+   "album": "",
+   "list": "FE",
+   "part": 2176,
+   "segments": 52,
+   "secs": 217.132
+  },
+  {
+   "i": 17,
+   "title": "Barrier Break",
+   "artist": "Diesel Boy + Kaos",
+   "album": "",
+   "list": "IG",
+   "part": 3177,
+   "segments": 86,
+   "secs": 418.397
+  },
+  {
+   "i": 18,
+   "title": "B-Side Wins Again feat. Chuck D",
+   "artist": "DJ Spooky and Dave Lombardo",
+   "album": "Drums Of Death",
+   "list": "FE",
+   "part": 1605,
+   "segments": 105,
+   "secs": 276.013
+  },
+  {
+   "i": 19,
+   "title": "Nine Thou (Superstars Remix)",
+   "artist": "Styles Of Beyond",
+   "album": "Megadef",
+   "list": "AL",
+   "part": 2771,
+   "segments": 52,
+   "secs": 228.606
+  },
+  {
+   "i": 20,
+   "title": "Most Wanted Mash Up",
+   "artist": "Paul Linford and Chris Vrenna",
+   "album": "",
+   "list": "IG",
+   "part": 3498,
+   "segments": 54,
+   "secs": 214.001
+  },
+  {
+   "i": 21,
+   "title": "Feed The Addiction",
+   "artist": "Ils",
+   "album": "Bohemia",
+   "list": "IG",
+   "part": 3101,
+   "segments": 67,
+   "secs": 239.309
+  },
+  {
+   "i": 22,
+   "title": "We Control",
+   "artist": "Hyper",
+   "album": "We Control",
+   "list": "IG",
+   "part": 2460,
+   "segments": 50,
+   "secs": 186.685
+  },
+  {
+   "i": 23,
+   "title": "Do Ya Thang",
+   "artist": "T.I. Presents The P$$C",
+   "album": "25 To Life",
+   "list": "FE",
+   "part": 2625,
+   "segments": 82,
+   "secs": 249.297
+  },
+  {
+   "i": 24,
+   "title": "Blood And Thunder",
+   "artist": "Mastodon",
+   "album": "Leviathan",
+   "list": "IG",
+   "part": 2922,
+   "segments": 48,
+   "secs": 222.718
+  },
+  {
+   "i": 25,
+   "title": "In A Hood Near You",
+   "artist": "Suni Clay",
+   "album": "Suni Clay",
+   "list": "FE",
+   "part": 2560,
+   "segments": 56,
+   "secs": 248.527
+  }
+ ]
+}
